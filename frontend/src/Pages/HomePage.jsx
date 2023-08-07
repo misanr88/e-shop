@@ -1,13 +1,12 @@
-import React from "react";
-import Header from "../Components/Layout/Header";
-import Hero from "../Components/Route/Hero/Hero";
-import Categories from "../Components/Route/Categories/Categories";
-import BestDeals from "../Components/Route/BestDeals/BestDeals";
-import FeaturedProduct from "../Components/Route/FeaturedProduct/FeaturedProduct";
-import Events from "../Components/Events/Events";
-import Sponsored from "../Components/Route/Sponsored";
-import Footer from "../Components/Route/Footer";
-
+import React from 'react';
+import Header from '../components/Layout/Header';
+import Hero from '../components/Route/Hero/Hero';
+import Categories from '../components/Route/Categories/Categories';
+import BestDeals from '../components/Route/BestDeals/BestDeals';
+import FeaturedProduct from '../components/Route/FeaturedProduct/FeaturedProduct';
+import Events from '../components/Events/Events';
+import Sponsored from '../components/Route/Sponsored';
+import Footer from '../components/Layout/Footer';
 const HomePage = () => {
   return (
     <div>
